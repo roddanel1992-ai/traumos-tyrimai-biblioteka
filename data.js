@@ -19,7 +19,8 @@ const straipsniuDuomenys = [
     },
     "saltinis": "European Journal of Psychotraumatology 2016, 7: 29295",
     "doi": "http://dx.doi.org/10.3402/ejpt.v7.29295",
-    "pdf_file": "2_Istorija_Trauma research in the Baltic countries-1.pdf"
+    "pdf_file": "2_Istorija_Trauma research in the Baltic countries-1.pdf",
+    "pilnas_vertimas": "straipsnis-1-pilnas.html"
   },
   {
     "id": 2,
@@ -41,7 +42,8 @@ const straipsniuDuomenys = [
     },
     "saltinis": "European Journal of Psychotraumatology 2019, 10:1, 1654065",
     "doi": "https://doi.org/10.1080/20008198.2019.1654065",
-    "pdf_file": "7_Trauma tarp kartu_Dashorst et al..pdf"
+    "pdf_file": "7_Trauma tarp kartu_Dashorst et al..pdf",
+    "pilnas_vertimas": "straipsnis-2-pilnas.html"
   },
   {
     "id": 3,
@@ -63,7 +65,8 @@ const straipsniuDuomenys = [
     },
     "saltinis": "Psychological Inquiry 2004, 15:1, 1-18",
     "doi": "https://doi.org/10.1207/s15327965pli1501_01",
-    "pdf_file": "8_Posttraumatic Growth Conceptual Foundations and Empirical Evidence, Tedeschi and Calhoun.pdf"
+    "pdf_file": "8_Posttraumatic Growth Conceptual Foundations and Empirical Evidence, Tedeschi and Calhoun.pdf",
+    "pilnas_vertimas": "straipsnis-3-pilnas.html"
   },
   {
     "id": 4,
@@ -82,7 +85,8 @@ const straipsniuDuomenys = [
     },
     "saltinis": "European Journal of Psychotraumatology 2015, 6: 28186",
     "doi": "https://dx.doi.org/10.3402/ejpt.v6.28186",
-    "pdf_file": "9_Pagalbos budai PTSS_Schnyder et al..pdf"
+    "pdf_file": "9_Pagalbos budai PTSS_Schnyder et al..pdf",
+    "pilnas_vertimas": "straipsnis-4-pilnas.html"
   },
   {
     "id": 5,
@@ -102,7 +106,8 @@ const straipsniuDuomenys = [
     },
     "saltinis": "Global Health Action 2017, 10: 1322399",
     "doi": "https://doi.org/10.1080/16549716.2017.1322399",
-    "pdf_file": "10_Pagalbos budai ir issukiai_Kazlauskas.pdf"
+    "pdf_file": "10_Pagalbos budai ir issukiai_Kazlauskas.pdf",
+    "pilnas_vertimas": "straipsnis-5-pilnas.html"
   },
   {
     "id": 6,
