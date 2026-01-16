@@ -55,6 +55,7 @@ function displayStraipsnis(straipsnis) {
                 <p><strong>Šaltinis:</strong> ${straipsnis.saltinis}</p>
                 ${straipsnis.doi ? `<p><strong>DOI:</strong> <a href="${straipsnis.doi}" target="_blank">${straipsnis.doi}</a></p>` : ''}
                 ${straipsnis.pdf_file ? `<p><strong>PDF:</strong> <a href="${straipsnis.pdf_file}" target="_blank" rel="noopener noreferrer">Atidaryti originalų PDF</a></p>` : ''}
+                ${straipsnis.pilnas_vertimas ? `<p><strong>Pilnas vertimas:</strong> <a href="${straipsnis.pilnas_vertimas}">Skaityti pilną lietuvišką vertimą</a></p>` : ''}
             </div>
 
             <h2>Santrauka</h2>
